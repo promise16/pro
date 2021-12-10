@@ -19,4 +19,8 @@
     "url": "https://github.com/promise16/pro/issues"
   },
   "homepage": "https://github.com/promise16/pro#readme"
+
+"publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+ }
 }
