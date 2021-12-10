@@ -1,0 +1,22 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "haha",
+  "main": "index.js",
+  "scripts": {
+    "test": "haha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promise16/pro.git"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "ya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/promise16/pro/issues"
+  },
+  "homepage": "https://github.com/promise16/pro#readme"
+}
